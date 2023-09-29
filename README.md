@@ -1,2 +1,0 @@
-Website:
-sukjindeanlee.github.io
